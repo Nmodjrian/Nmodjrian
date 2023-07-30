@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey! I'm Newsha 👋
+
+
+- 🔭 I’m currently working on promoting active travel
+- 🌱 I’m currently learning Automated Analytics with FME and Python
+- 💬 Ask me about sustainability, spatial analysis, climate modelling, ML in urban climate
 
 <!--
 **Nmodjrian/Nmodjrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
